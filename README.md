@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Stuart
 - 👀 I’m interested in web development and networking( Certified Ethical Hacker)
 - 🌱 I’m currently learning Devops
-- 💞️ I’m looking to collaborate on network related 
+- 💞️ I’m looking to collaborate on network related and Front-end development
 - 📫 How to reach me email : vinstonserophia123@gmail.com
 
 <!---
