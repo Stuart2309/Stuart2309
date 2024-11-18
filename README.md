@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Stuart
-- 👀 I’m interested in web development and networking( Certified Ethical Hacker)
-- 💞️ I’m looking to collaborate on network related and Front-end development
+- 👀 I’m interested in Cloud Engineering
+- 💞️ I’m looking to collaborate on network and Cloud Computing jobs
 - 📫 How to reach me email : vinstonserophia123@gmail.com
 
 <!---
